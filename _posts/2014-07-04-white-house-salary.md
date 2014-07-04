@@ -1,20 +1,17 @@
---- 
-layout: post 
+---
+layout: post
 title: Wages and Gender - Equality in the White House
- ---
+---
 
 [GRAPH1]
 
-The Obama administration has made bridging the gender pay gap a priority, passing the Lilly Ledbetter Act in 2009 and continuing to promote the Paycheck Fairness Act.
-http://en.wikipedia.org/wiki/Lilly_Ledbetter_Fair_Pay_Act_of_2009
-http://www.nytimes.com/2014/03/21/us/politics/obama-to-promote-expanded-economic-opportunities-for-women.html
+The Obama administration has made bridging the gender pay gap a priority, passing the [Lilly Ledbetter Act](http://en.wikipedia.org/wiki/Lilly_Ledbetter_Fair_Pay_Act_of_2009) in 2009 and continuing to promote the [Paycheck Fairness Act])[http://www.nytimes.com/2014/03/21/us/politics/obama-to-promote-expanded-economic-opportunities-for-women.html].
+
+Yet, critics often point to the gender wage gap of White House staff as evidence of a bit of hypocrisy ([Washington Post](http://www.washingtonpost.com/blogs/post-politics/wp/2014/04/07/the-white-houses-own-wage-gender-gap/), [AEI report](http://www.aei-ideas.org/2014/02/february-20-is-white-house-equal-pay-day-the-date-in-2014-women-must-work-to-earn-what-men-earned-in-2013/), [Daily Mail](http://www.dailymail.co.uk/news/article-2128513/Women-paid-significantly-Obama-White-House-male-counterparts.html), [NY Times](http://www.nytimes.com/2014/04/08/us/politics/as-obama-spotlights-gender-gap-in-wages-his-own-payroll-draws-scrutiny.html?_r=0)).  For example, in 2013, female White House employees made 93 cents for every dollar earned by their male counterparts.
 
 
-Yet, critics often point to the gender wage gap of White House staff as evidence of a bit of hypocrisy (Washington Post, AEI report, Daily Mail, NY Times).  For example, in 2013, female White House employees made 93 cents for every dollar earned by their male counterparts.
-http://www.washingtonpost.com/blogs/post-politics/wp/2014/04/07/the-white-houses-own-wage-gender-gap/
-http://www.aei-ideas.org/2014/02/february-20-is-white-house-equal-pay-day-the-date-in-2014-women-must-work-to-earn-what-men-earned-in-2013/
-http://www.dailymail.co.uk/news/article-2128513/Women-paid-significantly-Obama-White-House-male-counterparts.html
-http://www.nytimes.com/2014/04/08/us/politics/as-obama-spotlights-gender-gap-in-wages-his-own-payroll-draws-scrutiny.html?_r=0
+
+
 
 But where does this gender pay gap come from? And how does it compare to previous administrations / the country as a whole?
 
