@@ -3,7 +3,7 @@ layout: post
 title: Wages and Gender - Equality in the White House
 ---
 
-![placeholder](/assets/p1-00-intro2014.png "First Image")
+![pic1](/images/p1-00-intro2014.png)
 
 The Obama administration has made bridging the gender pay gap a priority, passing the [Lilly Ledbetter Act](http://en.wikipedia.org/wiki/Lilly_Ledbetter_Fair_Pay_Act_of_2009) in 2009 and continuing to promote the [Paycheck Fairness Act](http://www.nytimes.com/2014/03/21/us/politics/obama-to-promote-expanded-economic-opportunities-for-women.html).
 
@@ -15,11 +15,11 @@ But where does this gender pay gap come from? And how does it compare to previou
 
 First, a look at White House employees wages over the past decade:
 
-![placeholder](/assets/p1-01-median2014.png)
+![pic1](/images/p1-01-median2014.png)
 
 Even adjusting for inflation, average (median) incomes for White House employees have increased over the past decade, from 52,000 in 2003 to 70,000 in 2013. Most of this pay increase came in 2009, when the incoming Obama team was paid an average of 10k more than their Bush counterparts.
 
-![ThirdGraph](/assets/p1-02-income2014.png)
+![pic1](/images/p1-02-income2014.png)
 
 These pay increases haven't been evenly distributed across all employees. Most of the pay increase went to the bottom half of White House employees (top 2 panels).  While the top 75% of employees did initially receive a pay bump when Obama entered office in 2009, their pay has since decreased back to roughly Bush administration levels (adjusting for inflation).
 
@@ -29,7 +29,7 @@ This has resulted in a slight increase in income equality among White House empl
 
 Sadly, the White House doesn't include the gender (or race!) of its employees when providing salary information. Instead, I used the [Social Security Administration's baby names data](http://www.ssa.gov/oact/babynames/limits.html) to automatically code the gender of individuals based on their first name. For each name, I looked up the gender ratio of infants born with that name from 1975-1995. Most names sorted on clear gender lines (Mary-Ann, Mark,...). I hand coded the remaining ~3% of individuals with ambiguous / uncommon names (like [Kalpenn](http://en.wikipedia.org/wiki/Kal_Penn)).
 
-![FourthGraph](/assets/p1-03-gender2014.png)
+![pic1](/images/p1-03-gender2014.png)
 
 From this, women are almost exactly half (50.8%) of all White House employees.
 
@@ -43,7 +43,7 @@ Many positions only occur for one year, like "Director of Lessons Learned" (2006
 
 Instead, positions can be grouped by a rough 'job title' (lawyer, director, deputy director,...).
 
-![FifthGraph](/assets/p1-04-summaryPlot.png)
+![pic1](/images/p1-04-summaryPlot.png)
 
 Within each position,  women make approximately the same as men. For 2014, in 9 of 13 job titles, women earn 91-106% of men in those positions. The four exceptions are Deputy Directors (88%), Associate Directors (120%), staff listed as 'senior' - like "Senior Policy Advisor" (112%), and lawyers (114%). Yet in three of these four positions, women make considerably more than men. So women are paid (roughly) the same as men working in equivalent roles.
 
@@ -67,5 +67,7 @@ I'd love to hear them.
 Data via [Socrata](https://opendata.socrata.com/) for 2009 - 2013 and the Washington Post for [2003 - 2008](http://www.washingtonpost.com/wp-srv/opinions/graphics/2008stafflistsalary.html).
 
 NOTES:
+
 * I'll update this when the 2014 data is released.
+
 * If anyone has data from 1995-2002, I'd love to work with it. Unfortunately, my google-powers were not strong enough to locate them. 

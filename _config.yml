@@ -13,7 +13,7 @@ paginate:         1
 baseurl:          /
 author:
   name:           Ian Sulam
-  url:            http://icsulam.github.io/
+  url:            
   email:          ian.sulam@gmail.com
 
 pages_list:       
