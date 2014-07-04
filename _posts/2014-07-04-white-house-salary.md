@@ -3,7 +3,7 @@ layout: post
 title: Wages and Gender - Equality in the White House
 ---
 
-![FirstGraph](/assets/p1-00-intro2014.png)
+![placeholder](http://icsulam.github.io/assets/p1-00-intro2014.png)
 
 The Obama administration has made bridging the gender pay gap a priority, passing the [Lilly Ledbetter Act](http://en.wikipedia.org/wiki/Lilly_Ledbetter_Fair_Pay_Act_of_2009) in 2009 and continuing to promote the [Paycheck Fairness Act](http://www.nytimes.com/2014/03/21/us/politics/obama-to-promote-expanded-economic-opportunities-for-women.html).
 
@@ -15,7 +15,7 @@ But where does this gender pay gap come from? And how does it compare to previou
 
 First, a look at White House employees wages over the past decade:
 
-![SecondGraph](/assets/p1-01-median2014.png)
+![placeholder](/assets/p1-01-median2014.png)
 
 Even adjusting for inflation, average (median) incomes for White House employees have increased over the past decade, from 52,000 in 2003 to 70,000 in 2013. Most of this pay increase came in 2009, when the incoming Obama team was paid an average of 10k more than their Bush counterparts.
 
