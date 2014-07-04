@@ -4,7 +4,7 @@ title: Wages and Gender - Equality in the White House
 ---
 e6
 
-![placeholder](_assets/p1-00-intro2014.png "First Image")
+![placeholder](/assets/p1-00-intro2014.png "First Image")
 
 The Obama administration has made bridging the gender pay gap a priority, passing the [Lilly Ledbetter Act](http://en.wikipedia.org/wiki/Lilly_Ledbetter_Fair_Pay_Act_of_2009) in 2009 and continuing to promote the [Paycheck Fairness Act](http://www.nytimes.com/2014/03/21/us/politics/obama-to-promote-expanded-economic-opportunities-for-women.html).
 
