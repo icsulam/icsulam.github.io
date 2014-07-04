@@ -2,7 +2,6 @@
 layout: post
 title: Wages and Gender - Equality in the White House
 ---
-e6
 
 ![placeholder](/assets/p1-00-intro2014.png "First Image")
 
