@@ -13,27 +13,21 @@ These files explain the data cleansing, exploratory analysis, preprocessing and 
 
 1.  Perl files
 
-  ..* [pull prompts from reddit](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/00-redditScrape.pl)
-
-  ..* [pull comments from reddit](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/01-commentScrape.pl)
-
-  ..* [clean prompts, convert to CSV](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/02-promptJsonToCsv.pl)
-
-  ..* [clean comments, convert to CSV](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/03-commentParse.pl)
+   * [pull prompts from reddit](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/00-redditScrape.pl)
+   * [pull comments from reddit](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/01-commentScrape.pl)
+   * [clean prompts, convert to CSV](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/02-promptJsonToCsv.pl)
+   * [clean comments, convert to CSV](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/03-commentParse.pl)
 
 2.  R files
 
-  ..* [clean prompts, build features](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/analysis-0-promptLevel.R)
-
-  ..* [clean comments, build features](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/analysis-1-commentLevel.R)
-
-..* [data analysis and exploration](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/analysis-4-dataRunning.R)
+   * [clean prompts, build features](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/analysis-0-promptLevel.R)
+   * [clean comments, build features](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/analysis-1-commentLevel.R)
+   * [data analysis and exploration](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/analysis-4-dataRunning.R)
 
 3.  Python files (copies of R files)
 
-  ..* [clean prompts, build features](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/writing_0_prompt_level.ipynb)
-
-  ..* [clean comments, build features](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/writing_1_comment_level.ipynb)
+  * [clean prompts, build features](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/writing_0_prompt_level.ipynb)
+  * [clean comments, build features](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/writing_1_comment_level.ipynb)
 
 
 As a warning: github didn't want to store the complete pull from reddit. Email me if you're interested in getting the data!
