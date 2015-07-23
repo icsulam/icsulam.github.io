@@ -29,6 +29,8 @@ These files explain the data cleansing, exploratory analysis, preprocessing and 
   * [clean prompts, build features](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/writing_0_prompt_level.ipynb)
   * [clean comments, build features](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/writing_1_comment_level.ipynb)
 
+4.  PDF
+  * [pdf copy of the presentation](https://github.com/icsulam/icsulam.github.io/blob/master/pdf/beamer.pdf)
 
 As a warning: github didn't want to store the complete pull from reddit. Email me if you're interested in getting the data!
 
